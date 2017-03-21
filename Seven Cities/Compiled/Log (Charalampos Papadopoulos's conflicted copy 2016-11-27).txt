@@ -1,0 +1,3919 @@
+20161101_164314 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player left room 23
+     Player entered room 5
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 (Door)
+     Player left room 5
+     Player entered room 23
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player left room 23
+     Player entered room 5
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Hotspot 1 (Irene's Desk)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+20161101_165435 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+     Player clicked MouseButton 1 in mode 0
+20161101_170556 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (219,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (262,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (262,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (34,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (34,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (280,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (280,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (91,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (91,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (67,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (67,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (279,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (279,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (34,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (278,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (33,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (33,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (205,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (228,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (195,137)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (195,137)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (70,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (70,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (120,139)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (128,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (145,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (152,98)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (204,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (211,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (227,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (199,114)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (202,113)
+     Player left room 23
+     Player entered room 4
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 (Door)
+     Player left room 4
+     Player entered room 23
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,85)
+     Player left room 23
+     Player entered room 4
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 (Door)
+     Player left room 4
+     Player entered room 23
+     Player clicked MouseButton 2 in mode 0
+     Player clicked nothing at (164,74)
+     Player left room 23
+     Player entered room 4
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (169,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (207,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (299,95)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Hotspot 5 (back of the room)
+20161101_170821 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (196,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (207,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (250,75)
+     Player left room 23
+     Player entered room 4
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (286,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Hotspot 5 (back of the room)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (234,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (205,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (251,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (260,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (226,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (265,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (260,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (189,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (177,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (177,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (166,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (149,140)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (161,136)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (153,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (182,136)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (163,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (164,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (172,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,132)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Character 2 (Professor Mulbray)
+20161101_171000 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (188,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (228,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (228,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (260,75)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked nothing at (233,76)
+     Player left room 23
+     Player entered room 4
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (185,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (256,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Hotspot 5 (back of the room)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Character 2 (Professor Mulbray)
+     Player gets 1 points
+     (Old score: 0, current score 1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (177,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (161,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (163,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (148,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (166,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (172,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (167,138)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (141,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (155,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (140,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (158,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Hotspot 2 (Mulbray's Desk)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (182,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (184,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (196,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (189,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (184,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (200,116)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (230,103)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (266,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (291,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (227,104)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 (Door)
+     Player left room 4
+     Player entered room 23
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (234,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (257,140)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (257,140)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (273,136)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (273,136)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (273,136)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (275,68)
+     Player left room 23
+     Player entered room 16
+     Player left room 16
+     Player entered room 23
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,123)
+20161101_212536 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (161,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (129,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (155,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (215,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (164,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (145,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (146,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (202,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (155,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (155,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (189,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (130,105)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (127,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (128,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (139,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (134,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (141,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (188,104)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (166,125)
+20161101_212835 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (149,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (149,116)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (149,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (144,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (143,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (158,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (177,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (138,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,105)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (122,104)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (173,101)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (191,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (213,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (132,98)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (138,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (126,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (181,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (197,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (213,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (142,123)
+20161101_213059 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (147,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (188,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (225,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (180,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (173,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (162,116)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (162,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (163,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (163,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (215,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (152,116)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (124,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (100,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (100,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (100,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (204,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (226,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (215,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (169,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (167,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (205,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (246,81)
+     Player left room 23
+     Player entered room 4
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Character 2 (Professor Mulbray)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 (Door)
+     Player left room 4
+     Player entered room 23
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (156,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (200,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (140,95)
+     Player left room 23
+     Player entered room 4
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 (Door)
+     Player left room 4
+     Player entered room 23
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (160,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,97)
+     Player left room 23
+     Player entered room 4
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (185,114)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (220,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (173,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 (Door)
+     Player left room 4
+     Player entered room 23
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (185,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (151,79)
+     Player left room 23
+     Player entered room 4
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 (Door)
+     Player left room 4
+     Player entered room 23
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (201,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (223,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (231,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (231,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (243,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (243,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (243,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (243,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (273,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (273,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (57,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (57,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (151,137)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (151,137)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (64,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (64,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (97,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (97,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (87,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (126,137)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (132,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (146,137)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (149,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (151,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (150,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (150,134)
+20161101_213329 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (181,138)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (163,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (162,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (162,117)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (104,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (128,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (135,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (141,103)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (146,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (149,105)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (151,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (151,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (191,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,114)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (164,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (167,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,117)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (170,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (170,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (178,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (235,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (231,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (231,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (231,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (252,105)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (217,91)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (181,88)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,99)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,88)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,88)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (162,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (162,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,104)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (167,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,117)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (106,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (188,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (166,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (188,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (223,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (223,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (223,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (223,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (177,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (127,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (105,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (105,119)
+     Player left room 23
+     Player entered room 16
+     Player left room 16
+     Player entered room 23
+20161101_213748 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (39,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (146,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (108,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (80,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (106,114)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (84,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (116,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (198,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (224,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (224,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (224,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (224,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (224,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (252,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (252,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (252,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (175,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (191,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (204,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (221,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (224,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (173,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (170,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (172,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (213,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (226,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (99,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (109,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (118,139)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (91,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (77,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (133,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (152,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (169,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (127,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (105,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (195,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (219,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,127)
+20161101_214428 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (182,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (282,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (282,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (282,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (282,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (267,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (227,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (252,136)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (147,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (63,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (63,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (63,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (88,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (152,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (145,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (184,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (217,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (158,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (119,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (81,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (81,132)
+20161101_214532 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (199,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (227,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (248,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (248,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (260,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (260,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (260,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (279,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (144,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (132,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (117,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (127,140)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (89,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (89,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (107,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (125,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (126,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (89,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (89,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (77,124)
+20161102_000704 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (195,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (233,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (233,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (233,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (233,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (233,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (233,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (233,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (166,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (164,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (203,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (197,140)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (169,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (167,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (167,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (201,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (207,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (207,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (207,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (221,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (221,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (202,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (202,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (202,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (199,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (199,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (226,130)
+20161102_000825 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 23
+     Item 1 added
+     Item 6 added
+     Item 7 added
+     Item 3 added
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (169,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (149,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (155,116)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (139,105)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (128,117)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (85,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (125,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (152,116)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (199,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (213,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (217,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (206,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (214,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (195,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (182,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (216,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (117,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (283,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (249,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (186,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (250,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (176,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (112,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (120,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (211,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (125,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (183,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (151,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (184,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (135,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (177,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (139,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (183,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (255,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (255,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (120,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (68,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (232,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (223,138)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (222,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (198,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (92,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (53,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (53,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (38,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (38,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (38,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (38,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (38,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (38,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (24,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (24,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (36,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (36,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (74,103)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (100,103)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (119,103)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (144,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (287,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (287,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (287,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (287,131)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (245,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (262,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (242,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (251,123)
+20161112_084745 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, no Control
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 31
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (196,126)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Object 5 (Rectangular Hole)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked nothing at (226,111)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Object 3 (Rope)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Character 41 (Fisherman)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Character 41 (Fisherman)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Object 7 (Door)
+20161115_221328 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (158,72)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (141,87)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (117,94)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (65,114)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (41,137)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (69,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (76,185)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (51,181)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (27,170)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (92,181)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (117,183)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (156,138)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (205,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (189,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (167,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (206,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (222,104)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (247,101)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (256,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (250,99)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (234,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (244,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (234,97)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (198,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (160,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (141,165)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (121,183)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (62,180)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (39,144)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (45,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (44,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (107,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (132,90)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (153,60)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (149,81)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (86,104)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (47,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (54,152)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (54,131)
+20161115_221547 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (176,85)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (131,91)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (90,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (45,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (62,158)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (90,182)
+20161115_221629 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,82)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (119,99)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (44,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (46,150)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (97,190)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (125,194)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (169,136)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (189,116)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (128,163)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (108,195)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,147)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (52,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (124,86)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (152,72)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (166,35)
+20161115_221732 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,101)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (118,98)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,87)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (186,78)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (121,91)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (81,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (35,149)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (83,190)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (145,173)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (188,127)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (224,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (161,66)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (162,66)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (162,66)
+20161115_221837 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (144,92)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (44,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (35,137)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (51,164)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (100,189)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (136,177)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (185,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (217,117)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (236,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,110)
+20161115_221922 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,89)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (55,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (23,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (69,179)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (137,190)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (236,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (214,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (117,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (89,189)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (41,117)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (52,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (46,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (59,149)
+20161117_140306 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (147,83)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (115,97)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (76,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (49,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (52,157)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (66,166)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (68,183)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (139,178)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (197,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (254,103)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (195,119)
+20161117_140357 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (122,82)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (70,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (44,132)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (76,156)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (99,179)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,124)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (117,159)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (220,85)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (226,82)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (241,82)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (183,117)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (146,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (128,129)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (83,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (260,89)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (255,85)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (238,89)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (232,99)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (250,104)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (238,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (117,136)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (229,88)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (250,86)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (293,85)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (293,85)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (293,49)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (295,47)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (295,77)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (294,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (282,138)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 0 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 5 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 5 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 5 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 14 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 13 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 15 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 12 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, no Control
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 10 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 5 (ListBox)
+     type 'exit' to close the console, or press Ctrl+C in debug mode
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 5 (ListBox)
+     help
+     ALL COMMANDS:[quit   change_room   set_gi   change_name   walk_view   display   room_script   dump   close   change_npc_room   object_visible   object_view   object_animate   object_move   walkable_enabled   char_properties   char_invquan   char_setplayer   char_addinv   char_loseinv   region_enabled   get_property   get_textproperty   room_property   room_textproperty   help   system   list_scripts   call   dumpvars   set   get   sets   gets   xmlparse   upload   exit   
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 0 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, no Control
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 5 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, no Control
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, Control 5 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, no Control
+     Game is paused. Player pressed key '27' (char )
+     Game is paused. Player pressed key '27' (char )
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, no Control
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, no Control
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 19, no Control
+     help
+     ALL COMMANDS:[quit   change_room   set_gi   change_name   walk_view   display   room_script   dump   close   change_npc_room   object_visible   object_view   object_animate   object_move   walkable_enabled   char_properties   char_invquan   char_setplayer   char_addinv   char_loseinv   region_enabled   get_property   get_textproperty   room_property   room_textproperty   help   system   list_scripts   call   dumpvars   set   get   sets   gets   xmlparse   upload   exit   
+     exit
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (255,84)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (24,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (248,93)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (248,93)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (248,93)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (248,93)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (249,77)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (250,56)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (250,76)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (248,93)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (247,103)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (247,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (245,126)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (246,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,100)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,82)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (240,65)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (251,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,114)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (258,80)
+20161117_140835 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 14
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (176,147)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,148)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (198,146)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 6 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (140,130)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (185,128)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (225,141)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,148)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (153,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 9 ()
+20161120_132148 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 24
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (143,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (100,148)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (51,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (78,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (79,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (82,133)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (255,137)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (270,135)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (251,144)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (158,155)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (156,168)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (156,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (175,160)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (186,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (163,162)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (164,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (114,180)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (142,171)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (139,168)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (95,165)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (135,173)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (163,169)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (170,166)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (192,166)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (88,142)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (81,160)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (143,164)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (164,162)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,160)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (199,161)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,159)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (165,164)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (146,168)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (159,168)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (142,166)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (158,165)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 0 (Marcus)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (173,159)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (142,167)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,165)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (144,165)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (162,166)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,166)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (167,167)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (146,167)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,165)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (143,164)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (175,158)
+20161120_172610 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (173,64)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (183,68)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (170,51)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (170,71)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (170,70)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 28 (MIRROR3)
+20161120_173008 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_174903 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (182,74)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (186,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_174959 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (152,62)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,66)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (164,76)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (192,65)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (120,64)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (189,62)
+20161120_175108 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,69)
+20161120_175207 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+20161120_175325 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,58)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (173,62)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,63)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (179,62)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175400 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,60)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,57)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (160,59)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (191,64)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (179,62)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (181,65)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,70)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (188,70)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (177,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (179,66)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175449 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (180,64)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (180,67)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (167,56)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,58)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (185,65)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,64)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175519 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (186,66)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,65)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (189,67)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,67)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (183,61)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (191,58)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (180,62)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,68)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (158,83)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (192,62)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175637 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,71)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (184,76)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175723 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (192,72)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175754 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,73)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175821 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175857 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (178,75)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (157,84)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,49)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,73)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,72)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (186,71)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (184,70)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (205,86)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175940 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,73)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (161,72)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_175958 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (192,57)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (172,76)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_180023 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+20161120_180048 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (164,72)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_180139 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+20161120_180200 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,54)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_180224 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,59)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_180241 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_180313 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (188,72)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_180406 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (230,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,80)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,68)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (191,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (191,71)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,69)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_180502 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,65)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,76)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (185,71)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,70)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (188,64)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_180554 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,70)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (170,72)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_180619 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_181807 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (179,75)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_181952 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (191,66)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,71)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (180,86)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,74)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (189,74)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (206,79)
+20161120_182120 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (208,82)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (218,79)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_182216 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (212,80)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+20161120_182249 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (204,81)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (189,68)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (178,72)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (239,81)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 1 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,60)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (194,71)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (184,70)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,74)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (190,75)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (187,74)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (185,73)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (183,73)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (181,73)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (180,70)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (173,79)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (142,87)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (126,105)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (66,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (37,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 27 (MIRROR2)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (46,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (38,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+20161120_182503 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+20161120_182516 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (67,117)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (53,117)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (36,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (38,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (37,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (49,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (36,102)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,114)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (39,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (39,99)
+20161120_182547 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (69,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (44,105)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (36,103)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (53,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (43,103)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (38,102)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (58,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (42,100)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,105)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (39,105)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (53,114)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (44,110)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (47,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (43,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (41,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (50,119)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (124,90)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,71)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (193,71)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (151,78)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Character 26 (MIRROR1)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 2 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,78)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (83,122)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (64,125)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (34,116)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (39,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+20161120_182744 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 43
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (66,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (29,115)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked Object 0 ()
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (43,121)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (43,116)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (42,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,111)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (48,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (41,108)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (44,120)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (43,112)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (43,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (39,109)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (40,107)
+20161123_175717 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 8 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 6 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 95
+     type 'exit' to close the console, or press Ctrl+C in debug mode
+20161123_175829 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 22
+20161123_175858 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 10
+20161123_180026 :
+     Welcome to the AGS console ^_^[ 
+     Player entered room 12
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 7 (Button)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 0 (ListBox)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked GUI 13, Control 2 (Button)
+     Player left room 12
+     Player entered room 31
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (208,128)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Object 5 (Rectangular Hole)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (134,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,106)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (196,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (163,118)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,100)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (173,123)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,138)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (168,107)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (172,95)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (170,113)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (174,134)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (171,90)
+     Player clicked MouseButton 1 in mode 0
+     Player clicked nothing at (124,85)
+     Player clicked MouseButton 2 in mode 0
+     Player clicked Hotspot 11 (House)

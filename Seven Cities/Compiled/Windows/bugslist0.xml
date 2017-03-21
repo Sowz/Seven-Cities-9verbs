@@ -1,0 +1,45 @@
+<bugslist>
+    <bug>
+        <id>0</id>
+        <type>graphical_glitch</type>
+        <author></author>
+        <revision></revision>
+        <uid></uid>
+        <text>
+            <line>trhtrhjtrhtrhtrhtrhtr<br/></line>
+            <line>lk,lkjljlj<br/></line>
+            <line>VELLRY WE<br/></line>
+            <line><br/></line>
+        </text>
+    </bug>
+    <bug>
+        <id>2</id>
+        <type>blocking_bug</type>
+        <author></author>
+        <revision></revision>
+        <uid></uid>
+        <text>
+            <line>This is the second bug<br/></line>
+        </text>
+    </bug>
+    <bug>
+        <id>2</id>
+        <type>blocking_bug</type>
+        <author></author>
+        <revision></revision>
+        <uid></uid>
+        <text>
+            <line>Enter here bug description.<br/></line>
+        </text>
+    </bug>
+    <bug>
+        <id>3</id>
+        <type>blocking_bug</type>
+        <author></author>
+        <revision></revision>
+        <uid></uid>
+        <text>
+            <line>Enter here bug description.<br/></line>
+        </text>
+    </bug>
+</bugslist>
