@@ -3213,6 +3213,1037 @@
                   </GUIMain>
                 </GUIs>
               </GUIFolder>
+              <GUIFolder Name="9verb">
+                <SubFolders />
+                <GUIs>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick />
+                      <Height>57</Height>
+                      <Width>320</Width>
+                      <Left>0</Left>
+                      <Top>143</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>Normal</Visibility>
+                      <PopupYPos>0</PopupYPos>
+                      <ZOrder>0</ZOrder>
+                      <BorderColor>0</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>0</BackgroundColor>
+                      <BackgroundImage>0</BackgroundImage>
+                      <ID>34</ID>
+                      <Name>gAction</Name>
+                    </NormalGUI>
+                    <Controls>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>8</TextColor>
+                        <Font>0</Font>
+                        <Text />
+                        <Height>10</Height>
+                        <Locked>False</Locked>
+                        <Width>320</Width>
+                        <Left>0</Left>
+                        <Top>0</Top>
+                        <ZOrder>0</ZOrder>
+                        <ID>0</ID>
+                        <Name>ActionLine</Name>
+                      </GUILabel>
+                    </Controls>
+                  </GUIMain>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick />
+                      <Height>13</Height>
+                      <Width>270</Width>
+                      <Left>25</Left>
+                      <Top>94</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>PopupModal</Visibility>
+                      <PopupYPos>0</PopupYPos>
+                      <ZOrder>9</ZOrder>
+                      <BorderColor>0</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>0</BackgroundColor>
+                      <BackgroundImage>1071</BackgroundImage>
+                      <ID>35</ID>
+                      <Name>gConfirmexit</Name>
+                    </NormalGUI>
+                    <Controls>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>15219</TextColor>
+                        <Font>1</Font>
+                        <Text xml:space="preserve">Are you sure, you want to quit? (Y/N)</Text>
+                        <Height>9</Height>
+                        <Locked>False</Locked>
+                        <Width>270</Width>
+                        <Left>0</Left>
+                        <Top>2</Top>
+                        <ZOrder>0</ZOrder>
+                        <ID>0</ID>
+                        <Name>gConfirmexitText</Name>
+                      </GUILabel>
+                    </Controls>
+                  </GUIMain>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick />
+                      <Height>57</Height>
+                      <Width>320</Width>
+                      <Left>0</Left>
+                      <Top>143</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>PopupModal</Visibility>
+                      <PopupYPos>0</PopupYPos>
+                      <ZOrder>2</ZOrder>
+                      <BorderColor>16</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>16</BackgroundColor>
+                      <BackgroundImage>0</BackgroundImage>
+                      <ID>36</ID>
+                      <Name>gDialogsgui</Name>
+                    </NormalGUI>
+                    <Controls />
+                  </GUIMain>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick />
+                      <Height>56</Height>
+                      <Width>320</Width>
+                      <Left>0</Left>
+                      <Top>144</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>Normal</Visibility>
+                      <PopupYPos>13</PopupYPos>
+                      <ZOrder>0</ZOrder>
+                      <BorderColor>0</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>0</BackgroundColor>
+                      <BackgroundImage>0</BackgroundImage>
+                      <ID>37</ID>
+                      <Name>gMaingui</Name>
+                    </NormalGUI>
+                    <Controls>
+                      <GUIButton>
+                        <OnClick>Action_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1073</MouseoverImage>
+                        <Image>1072</Image>
+                        <Text />
+                        <Height>13</Height>
+                        <Locked>False</Locked>
+                        <Width>45</Width>
+                        <Left>3</Left>
+                        <Top>12</Top>
+                        <ZOrder>1</ZOrder>
+                        <ID>0</ID>
+                        <Name>Action0</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Action_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1075</MouseoverImage>
+                        <Image>1074</Image>
+                        <Text />
+                        <Height>13</Height>
+                        <Locked>False</Locked>
+                        <Width>45</Width>
+                        <Left>49</Left>
+                        <Top>12</Top>
+                        <ZOrder>2</ZOrder>
+                        <ID>1</ID>
+                        <Name>Action1</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Action_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1077</MouseoverImage>
+                        <Image>1076</Image>
+                        <Text />
+                        <Height>13</Height>
+                        <Locked>False</Locked>
+                        <Width>45</Width>
+                        <Left>95</Left>
+                        <Top>12</Top>
+                        <ZOrder>3</ZOrder>
+                        <ID>2</ID>
+                        <Name>Action2</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Action_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1079</MouseoverImage>
+                        <Image>1078</Image>
+                        <Text />
+                        <Height>13</Height>
+                        <Locked>False</Locked>
+                        <Width>45</Width>
+                        <Left>3</Left>
+                        <Top>26</Top>
+                        <ZOrder>4</ZOrder>
+                        <ID>3</ID>
+                        <Name>Action3</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Action_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1081</MouseoverImage>
+                        <Image>1080</Image>
+                        <Text />
+                        <Height>13</Height>
+                        <Locked>False</Locked>
+                        <Width>45</Width>
+                        <Left>49</Left>
+                        <Top>26</Top>
+                        <ZOrder>5</ZOrder>
+                        <ID>4</ID>
+                        <Name>Action4</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Action_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1083</MouseoverImage>
+                        <Image>1082</Image>
+                        <Text />
+                        <Height>13</Height>
+                        <Locked>False</Locked>
+                        <Width>45</Width>
+                        <Left>95</Left>
+                        <Top>26</Top>
+                        <ZOrder>6</ZOrder>
+                        <ID>5</ID>
+                        <Name>Action5</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Action_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1085</MouseoverImage>
+                        <Image>1084</Image>
+                        <Text />
+                        <Height>13</Height>
+                        <Locked>False</Locked>
+                        <Width>45</Width>
+                        <Left>3</Left>
+                        <Top>40</Top>
+                        <ZOrder>7</ZOrder>
+                        <ID>6</ID>
+                        <Name>Action6</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Action_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1087</MouseoverImage>
+                        <Image>1086</Image>
+                        <Text />
+                        <Height>13</Height>
+                        <Locked>False</Locked>
+                        <Width>45</Width>
+                        <Left>49</Left>
+                        <Top>40</Top>
+                        <ZOrder>8</ZOrder>
+                        <ID>7</ID>
+                        <Name>Action7</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Action_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1089</MouseoverImage>
+                        <Image>1088</Image>
+                        <Text />
+                        <Height>13</Height>
+                        <Locked>False</Locked>
+                        <Width>45</Width>
+                        <Left>95</Left>
+                        <Top>40</Top>
+                        <ZOrder>9</ZOrder>
+                        <ID>8</ID>
+                        <Name>Action8</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>ScrollInv_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1110</Image>
+                        <Text />
+                        <Height>11</Height>
+                        <Locked>False</Locked>
+                        <Width>16</Width>
+                        <Left>144</Left>
+                        <Top>9</Top>
+                        <ZOrder>10</ZOrder>
+                        <ID>9</ID>
+                        <Name>InvUp</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>ScrollInv_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1111</Image>
+                        <Text />
+                        <Height>12</Height>
+                        <Locked>False</Locked>
+                        <Width>16</Width>
+                        <Left>144</Left>
+                        <Top>20</Top>
+                        <ZOrder>11</ZOrder>
+                        <ID>10</ID>
+                        <Name>InvDown</Name>
+                      </GUIButton>
+                      <GUIInventory>
+                        <ItemWidth>32</ItemWidth>
+                        <ItemHeight>24</ItemHeight>
+                        <CharacterID>-1</CharacterID>
+                        <Height>48</Height>
+                        <Locked>False</Locked>
+                        <Width>160</Width>
+                        <Left>161</Left>
+                        <Top>9</Top>
+                        <ZOrder>12</ZOrder>
+                        <ID>11</ID>
+                        <Name>MainInv</Name>
+                      </GUIInventory>
+                      <GUIButton>
+                        <OnClick />
+                        <ClickAction>NoAction</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>0</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1112</Image>
+                        <Text />
+                        <Height>47</Height>
+                        <Locked>False</Locked>
+                        <Width>320</Width>
+                        <Left>0</Left>
+                        <Top>9</Top>
+                        <ZOrder>0</ZOrder>
+                        <ID>12</ID>
+                        <Name>btnMainBack</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>btnMainOpt_OnClick</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>0</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>1114</MouseoverImage>
+                        <Image>1113</Image>
+                        <Text />
+                        <Height>23</Height>
+                        <Locked>False</Locked>
+                        <Width>16</Width>
+                        <Left>144</Left>
+                        <Top>33</Top>
+                        <ZOrder>13</ZOrder>
+                        <ID>13</ID>
+                        <Name>btnMainOpt</Name>
+                      </GUIButton>
+                    </Controls>
+                  </GUIMain>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick />
+                      <Height>121</Height>
+                      <Width>281</Width>
+                      <Left>20</Left>
+                      <Top>20</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>PopupModal</Visibility>
+                      <PopupYPos>0</PopupYPos>
+                      <ZOrder>3</ZOrder>
+                      <BorderColor>0</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>0</BackgroundColor>
+                      <BackgroundImage>1115</BackgroundImage>
+                      <ID>38</ID>
+                      <Name>gOptions</Name>
+                    </NormalGUI>
+                    <Controls>
+                      <GUIButton>
+                        <OnClick>Options_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>2</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>Centred</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1116</Image>
+                        <Text>Save</Text>
+                        <Height>16</Height>
+                        <Locked>False</Locked>
+                        <Width>75</Width>
+                        <Left>200</Left>
+                        <Top>33</Top>
+                        <ZOrder>0</ZOrder>
+                        <ID>0</ID>
+                        <Name>OptionsSave</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Options_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>3</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>Centred</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1116</Image>
+                        <Text>Load</Text>
+                        <Height>16</Height>
+                        <Locked>False</Locked>
+                        <Width>75</Width>
+                        <Left>200</Left>
+                        <Top>48</Top>
+                        <ZOrder>1</ZOrder>
+                        <ID>1</ID>
+                        <Name>OptionsLoad</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Options_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>Centred</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1116</Image>
+                        <Text>Resume</Text>
+                        <Height>16</Height>
+                        <Locked>False</Locked>
+                        <Width>75</Width>
+                        <Left>200</Left>
+                        <Top>98</Top>
+                        <ZOrder>2</ZOrder>
+                        <ID>2</ID>
+                        <Name>OptionsPlay</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Options_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>Centred</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1116</Image>
+                        <Text>Quit</Text>
+                        <Height>16</Height>
+                        <Locked>False</Locked>
+                        <Width>75</Width>
+                        <Left>200</Left>
+                        <Top>78</Top>
+                        <ZOrder>10</ZOrder>
+                        <ID>3</ID>
+                        <Name>OptionsQuit</Name>
+                      </GUIButton>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>15219</TextColor>
+                        <Font>0</Font>
+                        <Text>Options</Text>
+                        <Height>9</Height>
+                        <Locked>False</Locked>
+                        <Width>181</Width>
+                        <Left>5</Left>
+                        <Top>5</Top>
+                        <ZOrder>3</ZOrder>
+                        <ID>4</ID>
+                        <Name>OptionsTitle</Name>
+                      </GUILabel>
+                      <GUISlider>
+                        <OnChange>OptionsSldMusic_OnChange</OnChange>
+                        <HandleImage>0</HandleImage>
+                        <HandleOffset>0</HandleOffset>
+                        <BackgroundImage>0</BackgroundImage>
+                        <MinValue>0</MinValue>
+                        <MaxValue>100</MaxValue>
+                        <Value>80</Value>
+                        <Height>12</Height>
+                        <Locked>False</Locked>
+                        <Width>141</Width>
+                        <Left>23</Left>
+                        <Top>31</Top>
+                        <ZOrder>4</ZOrder>
+                        <ID>5</ID>
+                        <Name>OptionsSldMusic</Name>
+                      </GUISlider>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>15219</TextColor>
+                        <Font>0</Font>
+                        <Text xml:space="preserve">Music Volume</Text>
+                        <Height>14</Height>
+                        <Locked>False</Locked>
+                        <Width>170</Width>
+                        <Left>10</Left>
+                        <Top>20</Top>
+                        <ZOrder>5</ZOrder>
+                        <ID>6</ID>
+                        <Name>OptionsMusic</Name>
+                      </GUILabel>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>15219</TextColor>
+                        <Font>0</Font>
+                        <Text xml:space="preserve">Game Speed</Text>
+                        <Height>14</Height>
+                        <Locked>False</Locked>
+                        <Width>170</Width>
+                        <Left>10</Left>
+                        <Top>83</Top>
+                        <ZOrder>6</ZOrder>
+                        <ID>7</ID>
+                        <Name>OptionsSpeed</Name>
+                      </GUILabel>
+                      <GUISlider>
+                        <OnChange>OptionsSldSpeed_OnChange</OnChange>
+                        <HandleImage>0</HandleImage>
+                        <HandleOffset>0</HandleOffset>
+                        <BackgroundImage>0</BackgroundImage>
+                        <MinValue>10</MinValue>
+                        <MaxValue>80</MaxValue>
+                        <Value>40</Value>
+                        <Height>12</Height>
+                        <Locked>False</Locked>
+                        <Width>141</Width>
+                        <Left>23</Left>
+                        <Top>94</Top>
+                        <ZOrder>7</ZOrder>
+                        <ID>8</ID>
+                        <Name>OptionsSldSpeed</Name>
+                      </GUISlider>
+                      <GUIButton>
+                        <OnClick>OptionsDefault_OnClick</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>Centred</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1116</Image>
+                        <Text>Default</Text>
+                        <Height>16</Height>
+                        <Locked>False</Locked>
+                        <Width>75</Width>
+                        <Left>200</Left>
+                        <Top>14</Top>
+                        <ZOrder>8</ZOrder>
+                        <ID>9</ID>
+                        <Name>OptionsDefault</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>OptionsRestart_OnClick</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>Centred</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1116</Image>
+                        <Text>Restart</Text>
+                        <Height>16</Height>
+                        <Locked>False</Locked>
+                        <Width>75</Width>
+                        <Left>200</Left>
+                        <Top>63</Top>
+                        <ZOrder>9</ZOrder>
+                        <ID>10</ID>
+                        <Name>OptionsRestart</Name>
+                      </GUIButton>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>15219</TextColor>
+                        <Font>0</Font>
+                        <Text xml:space="preserve">Sound Effects Volume</Text>
+                        <Height>14</Height>
+                        <Locked>False</Locked>
+                        <Width>170</Width>
+                        <Left>10</Left>
+                        <Top>52</Top>
+                        <ZOrder>11</ZOrder>
+                        <ID>11</ID>
+                        <Name>OptionsSound</Name>
+                      </GUILabel>
+                      <GUISlider>
+                        <OnChange>OptionsSldSound_OnChange</OnChange>
+                        <HandleImage>0</HandleImage>
+                        <HandleOffset>0</HandleOffset>
+                        <BackgroundImage>0</BackgroundImage>
+                        <MinValue>0</MinValue>
+                        <MaxValue>100</MaxValue>
+                        <Value>90</Value>
+                        <Height>12</Height>
+                        <Locked>False</Locked>
+                        <Width>141</Width>
+                        <Left>23</Left>
+                        <Top>63</Top>
+                        <ZOrder>12</ZOrder>
+                        <ID>12</ID>
+                        <Name>OptionsSldSound</Name>
+                      </GUISlider>
+                    </Controls>
+                  </GUIMain>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick />
+                      <Height>13</Height>
+                      <Width>270</Width>
+                      <Left>25</Left>
+                      <Top>94</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>PopupModal</Visibility>
+                      <PopupYPos>0</PopupYPos>
+                      <ZOrder>16</ZOrder>
+                      <BorderColor>0</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>0</BackgroundColor>
+                      <BackgroundImage>1117</BackgroundImage>
+                      <ID>39</ID>
+                      <Name>gRestart</Name>
+                    </NormalGUI>
+                    <Controls>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>15219</TextColor>
+                        <Font>1</Font>
+                        <Text xml:space="preserve">Are you sure, you want to restart? (Y/N)</Text>
+                        <Height>9</Height>
+                        <Locked>False</Locked>
+                        <Width>270</Width>
+                        <Left>0</Left>
+                        <Top>2</Top>
+                        <ZOrder>0</ZOrder>
+                        <ID>0</ID>
+                        <Name>gRestartText</Name>
+                      </GUILabel>
+                    </Controls>
+                  </GUIMain>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick />
+                      <Height>121</Height>
+                      <Width>281</Width>
+                      <Left>20</Left>
+                      <Top>20</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>PopupModal</Visibility>
+                      <PopupYPos>0</PopupYPos>
+                      <ZOrder>6</ZOrder>
+                      <BorderColor>16</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>0</BackgroundColor>
+                      <BackgroundImage>1118</BackgroundImage>
+                      <ID>40</ID>
+                      <Name>gRestore</Name>
+                    </NormalGUI>
+                    <Controls>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>15219</TextColor>
+                        <Font>0</Font>
+                        <Text xml:space="preserve">Please choose a game to load</Text>
+                        <Height>9</Height>
+                        <Locked>False</Locked>
+                        <Width>190</Width>
+                        <Left>5</Left>
+                        <Top>5</Top>
+                        <ZOrder>0</ZOrder>
+                        <ID>0</ID>
+                        <Name>RestoreTitle</Name>
+                      </GUILabel>
+                      <GUIListBox>
+                        <OnSelectionChanged>RestoreListBox_Click</OnSelectionChanged>
+                        <ShowScrollArrows>True</ShowScrollArrows>
+                        <ShowBorder>False</ShowBorder>
+                        <TextAlignment>Left</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <SelectedTextColor>15</SelectedTextColor>
+                        <SelectedBackgroundColor>54695</SelectedBackgroundColor>
+                        <Font>0</Font>
+                        <Translated>False</Translated>
+                        <Height>97</Height>
+                        <Locked>False</Locked>
+                        <Width>171</Width>
+                        <Left>9</Left>
+                        <Top>15</Top>
+                        <ZOrder>1</ZOrder>
+                        <ID>1</ID>
+                        <Name>RestoreListBox</Name>
+                      </GUIListBox>
+                      <GUIButton>
+                        <OnClick>Restore_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>Centred</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1119</Image>
+                        <Text>Cancel</Text>
+                        <Height>16</Height>
+                        <Locked>False</Locked>
+                        <Width>63</Width>
+                        <Left>212</Left>
+                        <Top>59</Top>
+                        <ZOrder>2</ZOrder>
+                        <ID>2</ID>
+                        <Name>RestoreCancel</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Restore_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1120</Image>
+                        <Text />
+                        <Height>48</Height>
+                        <Locked>False</Locked>
+                        <Width>17</Width>
+                        <Left>186</Left>
+                        <Top>18</Top>
+                        <ZOrder>3</ZOrder>
+                        <ID>3</ID>
+                        <Name>RestoreScrollUp</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Restore_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1121</Image>
+                        <Text />
+                        <Height>46</Height>
+                        <Locked>False</Locked>
+                        <Width>17</Width>
+                        <Left>186</Left>
+                        <Top>65</Top>
+                        <ZOrder>4</ZOrder>
+                        <ID>4</ID>
+                        <Name>RestoreScrollDown</Name>
+                      </GUIButton>
+                    </Controls>
+                  </GUIMain>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick />
+                      <Height>121</Height>
+                      <Width>281</Width>
+                      <Left>20</Left>
+                      <Top>20</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>PopupModal</Visibility>
+                      <PopupYPos>0</PopupYPos>
+                      <ZOrder>7</ZOrder>
+                      <BorderColor>0</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>0</BackgroundColor>
+                      <BackgroundImage>1122</BackgroundImage>
+                      <ID>41</ID>
+                      <Name>gSave22</Name>
+                    </NormalGUI>
+                    <Controls>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>15219</TextColor>
+                        <Font>0</Font>
+                        <Text xml:space="preserve">Please enter a name</Text>
+                        <Height>9</Height>
+                        <Locked>False</Locked>
+                        <Width>190</Width>
+                        <Left>5</Left>
+                        <Top>5</Top>
+                        <ZOrder>0</ZOrder>
+                        <ID>0</ID>
+                        <Name>SaveTitle</Name>
+                      </GUILabel>
+                      <GUIListBox>
+                        <OnSelectionChanged>SaveListBox_Click</OnSelectionChanged>
+                        <ShowScrollArrows>True</ShowScrollArrows>
+                        <ShowBorder>False</ShowBorder>
+                        <TextAlignment>Left</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <SelectedTextColor>54695</SelectedTextColor>
+                        <SelectedBackgroundColor>54695</SelectedBackgroundColor>
+                        <Font>0</Font>
+                        <Translated>False</Translated>
+                        <Height>90</Height>
+                        <Locked>False</Locked>
+                        <Width>171</Width>
+                        <Left>9</Left>
+                        <Top>15</Top>
+                        <ZOrder>1</ZOrder>
+                        <ID>1</ID>
+                        <Name>SaveListBox</Name>
+                      </GUIListBox>
+                      <GUIButton>
+                        <OnClick>Save_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>Centred</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1123</Image>
+                        <Text>Save</Text>
+                        <Height>16</Height>
+                        <Locked>False</Locked>
+                        <Width>63</Width>
+                        <Left>212</Left>
+                        <Top>52</Top>
+                        <ZOrder>2</ZOrder>
+                        <ID>2</ID>
+                        <Name>SaveOK</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Save_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>2</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>Centred</TextAlignment>
+                        <TextColor>38555</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1123</Image>
+                        <Text>Cancel</Text>
+                        <Height>16</Height>
+                        <Locked>False</Locked>
+                        <Width>63</Width>
+                        <Left>212</Left>
+                        <Top>67</Top>
+                        <ZOrder>3</ZOrder>
+                        <ID>3</ID>
+                        <Name>SaveCancel</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Save_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>1</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1124</Image>
+                        <Text />
+                        <Height>48</Height>
+                        <Locked>False</Locked>
+                        <Width>17</Width>
+                        <Left>186</Left>
+                        <Top>18</Top>
+                        <ZOrder>4</ZOrder>
+                        <ID>4</ID>
+                        <Name>SaveScrollUp</Name>
+                      </GUIButton>
+                      <GUIButton>
+                        <OnClick>Save_Click</OnClick>
+                        <ClickAction>RunScript</ClickAction>
+                        <NewModeNumber>0</NewModeNumber>
+                        <ClipImage>False</ClipImage>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>16</TextColor>
+                        <Font>0</Font>
+                        <PushedImage>0</PushedImage>
+                        <MouseoverImage>0</MouseoverImage>
+                        <Image>1125</Image>
+                        <Text />
+                        <Height>46</Height>
+                        <Locked>False</Locked>
+                        <Width>17</Width>
+                        <Left>186</Left>
+                        <Top>65</Top>
+                        <ZOrder>5</ZOrder>
+                        <ID>5</ID>
+                        <Name>SaveScrollDown</Name>
+                      </GUIButton>
+                    </Controls>
+                  </GUIMain>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick>gSavetextbox_OnClic</OnClick>
+                      <Height>12</Height>
+                      <Width>170</Width>
+                      <Left>0</Left>
+                      <Top>0</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>PopupModal</Visibility>
+                      <PopupYPos>0</PopupYPos>
+                      <ZOrder>8</ZOrder>
+                      <BorderColor>0</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>0</BackgroundColor>
+                      <BackgroundImage>0</BackgroundImage>
+                      <ID>42</ID>
+                      <Name>gSavetextbox</Name>
+                    </NormalGUI>
+                    <Controls>
+                      <GUITextBox>
+                        <OnActivate />
+                        <TextColor>15</TextColor>
+                        <Font>0</Font>
+                        <ShowBorder>False</ShowBorder>
+                        <Text />
+                        <Height>11</Height>
+                        <Locked>False</Locked>
+                        <Width>130</Width>
+                        <Left>12</Left>
+                        <Top>0</Top>
+                        <ZOrder>0</ZOrder>
+                        <ID>0</ID>
+                        <Name>SaveTextBox</Name>
+                      </GUITextBox>
+                      <GUILabel>
+                        <TextAlignment>TopLeft</TextAlignment>
+                        <TextColor>15</TextColor>
+                        <Font>0</Font>
+                        <Text>99.</Text>
+                        <Height>9</Height>
+                        <Locked>False</Locked>
+                        <Width>15</Width>
+                        <Left>2</Left>
+                        <Top>2</Top>
+                        <ZOrder>1</ZOrder>
+                        <ID>1</ID>
+                        <Name>SaveLabel</Name>
+                      </GUILabel>
+                    </Controls>
+                  </GUIMain>
+                  <GUIMain>
+                    <NormalGUI>
+                      <OnClick />
+                      <Height>15</Height>
+                      <Width>270</Width>
+                      <Left>25</Left>
+                      <Top>94</Top>
+                      <Clickable>True</Clickable>
+                      <Visibility>PopupModal</Visibility>
+                      <PopupYPos>0</PopupYPos>
+                      <ZOrder>5</ZOrder>
+                      <BorderColor>0</BorderColor>
+                      <Transparency>0</Transparency>
+                      <BackgroundColor>0</BackgroundColor>
+                      <BackgroundImage>1261</BackgroundImage>
+                      <ID>43</ID>
+                      <Name>gPaused</Name>
+                    </NormalGUI>
+                    <Controls>
+                      <GUILabel>
+                        <TextAlignment>TopMiddle</TextAlignment>
+                        <TextColor>15219</TextColor>
+                        <Font>1</Font>
+                        <Text xml:space="preserve">Game paused. Press &lt;P&gt; to continue</Text>
+                        <Height>9</Height>
+                        <Locked>False</Locked>
+                        <Width>270</Width>
+                        <Left>0</Left>
+                        <Top>2</Top>
+                        <ZOrder>0</ZOrder>
+                        <ID>0</ID>
+                        <Name>gPausedText</Name>
+                      </GUILabel>
+                    </Controls>
+                  </GUIMain>
+                </GUIs>
+              </GUIFolder>
             </SubFolders>
             <GUIs>
               <GUIMain>
@@ -6324,7 +7355,7 @@
                 <IdleView>80</IdleView>
                 <ThinkingView>0</ThinkingView>
                 <BlinkingView>79</BlinkingView>
-                <StartingRoom>12</StartingRoom>
+                <StartingRoom>22</StartingRoom>
                 <StartX>264</StartX>
                 <StartY>116</StartY>
                 <UniformMovementSpeed>True</UniformMovementSpeed>
@@ -10915,6 +11946,30 @@ return
         <AnimateOnlyWhenMoving>False</AnimateOnlyWhenMoving>
         <Name>Pull</Name>
       </MouseCursor>
+      <MouseCursor>
+        <ID>12</ID>
+        <HotspotX>0</HotspotX>
+        <HotspotY>0</HotspotY>
+        <StandardMode>False</StandardMode>
+        <Image>0</Image>
+        <View>0</View>
+        <Animate>False</Animate>
+        <AnimateOnlyOnHotspots>False</AnimateOnlyOnHotspots>
+        <AnimateOnlyWhenMoving>False</AnimateOnlyWhenMoving>
+        <Name>Usermode1</Name>
+      </MouseCursor>
+      <MouseCursor>
+        <ID>13</ID>
+        <HotspotX>0</HotspotX>
+        <HotspotY>0</HotspotY>
+        <StandardMode>False</StandardMode>
+        <Image>0</Image>
+        <View>0</View>
+        <Animate>False</Animate>
+        <AnimateOnlyOnHotspots>False</AnimateOnlyOnHotspots>
+        <AnimateOnlyWhenMoving>False</AnimateOnlyWhenMoving>
+        <Name>Usermode2</Name>
+      </MouseCursor>
     </Cursors>
     <Fonts>
       <Font>
@@ -11744,6 +12799,717 @@ return
                   <Sprite Slot="1009" Width="15" Height="20" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                     <Source>
                       <FileName>C:\Users\Tremulas\Desktop\dis2.png</FileName>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="9verb">
+                <SubFolders>
+                  <SpriteFolder Name="de">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1152" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00156.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1153" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00157.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1154" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00158.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1155" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00159.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1156" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00160.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1157" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00161.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1158" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00162.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1159" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00163.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1160" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00164.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1161" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00165.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1162" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00166.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1163" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00167.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1164" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00168.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1165" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00169.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1166" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00170.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1167" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00171.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1168" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00172.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1169" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00173.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1170" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00174.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="en">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1171" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00125.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1172" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00126.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1173" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00127.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1174" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00129.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1175" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00130.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1176" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00131.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1177" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00133.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1178" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00134.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1179" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00135.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1180" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00138.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1181" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00139.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1182" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00140.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1183" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00142.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1184" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00143.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1185" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00144.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1186" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00146.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1187" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00147.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1188" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00148.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="es">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1189" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00002.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1190" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00004.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1191" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00005.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1192" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00006.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1193" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00007.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1194" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00008.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1195" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00009.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1196" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00010.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1197" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00011.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1198" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00013.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1199" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00014.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1200" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00015.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1201" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00016.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1202" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00017.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1203" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00018.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1204" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00075.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1205" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00122.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1206" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00145.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="fr">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1207" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00149.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1208" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00175.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1209" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00176.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1210" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00177.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1211" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00178.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1212" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00179.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1213" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00180.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1214" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00181.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1215" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00182.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1216" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00183.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1217" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00184.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1218" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00185.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1219" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00186.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1220" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00187.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1221" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00188.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1222" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00189.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1223" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00190.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1224" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00191.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="it">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1225" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00193.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1226" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00194.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1227" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00195.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1228" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00196.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1229" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00197.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1230" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00198.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1231" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00199.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1232" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00200.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1233" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00201.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1234" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00202.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1235" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00203.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1236" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00204.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1237" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00205.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1238" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00206.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1239" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00207.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1240" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00213.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1241" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00214.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1242" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00215.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="pt">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1243" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00012.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1244" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00216.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1245" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00217.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1246" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00218.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1247" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00219.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1248" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00220.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1249" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00221.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1250" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00222.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1251" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00223.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1252" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00224.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1253" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00225.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1254" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00226.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1255" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00227.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1256" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00228.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1257" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00229.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1258" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00230.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1259" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00231.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1260" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00232.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                    </Sprites>
+                  </SpriteFolder>
+                </SubFolders>
+                <Sprites>
+                  <Sprite Slot="1126" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00019.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1127" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00020.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1128" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00021.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1129" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00022.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1130" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00023.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1131" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00024.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1132" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00025.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1133" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00026.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1134" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00027.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1135" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00028.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1136" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00029.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1137" Width="320" Height="47" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00123.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1138" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00124.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1139" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00128.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1140" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00132.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1141" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00136.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1142" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00137.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1143" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00141.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1144" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00154.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1145" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00155.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1146" Width="75" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00192.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1147" Width="281" Height="121" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00208.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1148" Width="63" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00209.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1149" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00210.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1150" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00211.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="1151" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00212.bmp</FileName>
                     </Source>
                   </Sprite>
                 </Sprites>
@@ -15538,21 +17304,76 @@ return
               <Sprite Slot="991" Width="30" Height="65" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
             </Sprites>
           </SpriteFolder>
+          <SpriteFolder Name="gConfirmexitImport">
+            <SubFolders />
+            <Sprites>
+              <Sprite Slot="1071" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+            </Sprites>
+          </SpriteFolder>
+          <SpriteFolder Name="gMainguiImport">
+            <SubFolders />
+            <Sprites>
+              <Sprite Slot="1072" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1073" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1074" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1075" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1076" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1077" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1078" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1079" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1080" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1081" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1082" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1083" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1084" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1085" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1086" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1087" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1088" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1089" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1110" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1111" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1112" Width="320" Height="47" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1113" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1114" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+            </Sprites>
+          </SpriteFolder>
+          <SpriteFolder Name="gOptionsImport">
+            <SubFolders />
+            <Sprites>
+              <Sprite Slot="1115" Width="281" Height="121" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1116" Width="75" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+            </Sprites>
+          </SpriteFolder>
+          <SpriteFolder Name="gRestartImport">
+            <SubFolders />
+            <Sprites>
+              <Sprite Slot="1117" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+            </Sprites>
+          </SpriteFolder>
+          <SpriteFolder Name="gRestoreImport">
+            <SubFolders />
+            <Sprites>
+              <Sprite Slot="1118" Width="281" Height="121" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1119" Width="63" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1120" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1121" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+            </Sprites>
+          </SpriteFolder>
           <SpriteFolder Name="gSaveImport">
             <SubFolders />
-            <Sprites />
+            <Sprites>
+              <Sprite Slot="1122" Width="281" Height="121" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1123" Width="63" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1124" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="1125" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+            </Sprites>
           </SpriteFolder>
-          <SpriteFolder Name="gLoadImport">
+          <SpriteFolder Name="gPausedImport">
             <SubFolders />
-            <Sprites />
-          </SpriteFolder>
-          <SpriteFolder Name="gSaveImport">
-            <SubFolders />
-            <Sprites />
-          </SpriteFolder>
-          <SpriteFolder Name="gLoadImport">
-            <SubFolders />
-            <Sprites />
+            <Sprites>
+              <Sprite Slot="1261" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+            </Sprites>
           </SpriteFolder>
         </SubFolders>
         <Sprites>
@@ -29245,6 +31066,83 @@ return
                     <Author>Helios</Author>
                     <Version>0.5</Version>
                     <Key>2101939385</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+            </ScriptAndHeaders>
+          </ScriptFolder>
+          <ScriptFolder Name="9verb">
+            <SubFolders />
+            <ScriptAndHeaders>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>guiscript.ash</FileName>
+                    <Name>9-Verb MI-Style</Name>
+                    <Description>9Verb GUI functions</Description>
+                    <Author>Authors named in header file</Author>
+                    <Version>1.5.2</Version>
+                    <Key>1562295785</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>guiscript.asc</FileName>
+                    <Name>9-Verb MI-Style</Name>
+                    <Description>9Verb GUI functions</Description>
+                    <Author>Authors named in header file</Author>
+                    <Version>1.5.2</Version>
+                    <Key>1562295785</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>dialogscript.ash</FileName>
+                    <Name>Dialogscript</Name>
+                    <Description>simplified fork of CDG</Description>
+                    <Author>abstauber</Author>
+                    <Version>1.1</Version>
+                    <Key>551174665</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>dialogscript.asc</FileName>
+                    <Name>Dialogscript</Name>
+                    <Description>simplified fork of CDG</Description>
+                    <Author>abstauber</Author>
+                    <Version>1.1</Version>
+                    <Key>551174665</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>init.ash</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>215547183</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>init.asc</FileName>
+                    <Name />
+                    <Description />
+                    <Author />
+                    <Version />
+                    <Key>215547183</Key>
                     <IsHeader>False</IsHeader>
                   </Script>
                 </ScriptAndHeader_Script>
