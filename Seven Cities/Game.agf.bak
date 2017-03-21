@@ -10841,7 +10841,7 @@ return
         <Animate>True</Animate>
         <AnimateOnlyOnHotspots>False</AnimateOnlyOnHotspots>
         <AnimateOnlyWhenMoving>False</AnimateOnlyWhenMoving>
-        <Name xml:space="preserve">Pick Up</Name>
+        <Name xml:space="preserve">Pick up</Name>
       </MouseCursor>
       <MouseCursor>
         <ID>6</ID>
