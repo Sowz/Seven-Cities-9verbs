@@ -171,6 +171,9 @@ import int getButtonAction(int action);
 import function disable_gui();
 import function enable_gui();
 import bool is_gui_disabled();
+import function show_gui();
+import function hide_gui();
+import bool is_gui_visible();
 import int GlobalCondition(eGlobCond condition);
 import function GetLucasSavegameListBox(ListBox*lb);
 import function set_double_click_speed(int speed);
@@ -178,6 +181,7 @@ import function InitGuiLanguage();
 
 // ============================= Verb Action Functions ===========================================
 import function UsedAction (Action test_action);
+import Action GetUsedAction();
 import bool isAction(Action test_action);
 import function SetActionButtons(Action action, String button_definition);
 import function SetDefaultAction(Action def_action);
