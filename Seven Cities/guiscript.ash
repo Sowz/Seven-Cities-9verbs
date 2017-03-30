@@ -209,6 +209,7 @@ import int GoToCharacterEx(Character*chwhogoes, Character*ch, CharacterDirection
 import int any_click_move(int x, int y, CharacterDirection dir);
 import int any_click_walk(int x, int y, CharacterDirection dir);
 import int any_click_walk_look(int x, int y, CharacterDirection dir, String lookat);
+import int any_click_talk(CharacterDirection dir, String lookat);
 
 #ifdef USE_OBJECT_ORIENTED_AUDIO
   import int any_click_walk_look_pick(int x, int y, CharacterDirection dir, String lookat, int objectID, InventoryItem*item, AudioClip *sound=false);
