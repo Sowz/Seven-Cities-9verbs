@@ -8,7 +8,7 @@ struct CharactersLogic {
   //
   /////////////////////
   import static void Mulbray(CursorMode mode);
-  import static void Irene(CursorMode mode);
+  import static void Irene(Action action);
   import static void Biff(CursorMode mode);  
   import static void Bruno(CursorMode mode);  
   import static void Student1(CursorMode mode);  
