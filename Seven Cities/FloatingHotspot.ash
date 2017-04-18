@@ -1,7 +1,7 @@
 // new module header
 
 
-managed struct FloatingHotspot 
+struct FloatingHotspot 
 {
   import static void SetMaxWidth(int width);
   import static void SetFont(FontType font);
@@ -11,4 +11,6 @@ managed struct FloatingHotspot
   import static void SetVerticalOffset(int offset);
   import static void UseGui(GUI *toUse);
   import static void UseOverlay();
+  import static void Enable();
+  import static void Disable();
 };
