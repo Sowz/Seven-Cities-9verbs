@@ -7050,10 +7050,10 @@
             <Name>iBarnett_Hammer1</Name>
             <Properties />
             <Interactions>
-              <Event Index="0" />
+              <Event Index="0">iBarnett_Hammer1_OtherClick</Event>
               <Event Index="1" />
-              <Event Index="2" />
-              <Event Index="3" />
+              <Event Index="2">iBarnett_Hammer1_OtherClick</Event>
+              <Event Index="3">iBarnett_Hammer1_OtherClick</Event>
               <Event Index="4">iBarnett_Hammer1_OtherClick</Event>
             </Interactions>
           </InventoryItem>
@@ -10330,6 +10330,8 @@ stop
                 <ShowTextParser>False</ShowTextParser>
                 <Script><![CDATA[// Dialog script file
 @S  // Dialog startup entry point
+
+  bool askIreneKey = DialogsLogic.GetVar("eDialog_IndyShouldAskKeyToIrene") == 1;
   //we asked both mulbray and irene
   if (DialogsLogic.GetVar("eDialog_MulbrayTopic") && askIreneKey) {
 option-on 2
@@ -12406,11 +12408,6 @@ return
           <Name>prevRoom1</Name>
           <Type>int</Type>
           <DefaultValue>0</DefaultValue>
-        </GlobalVariable>
-        <GlobalVariable>
-          <Name>askIreneKey</Name>
-          <Type>bool</Type>
-          <DefaultValue>false</DefaultValue>
         </GlobalVariable>
         <GlobalVariable>
           <Name>hasKey</Name>
@@ -31078,30 +31075,6 @@ return
               <ScriptAndHeader>
                 <ScriptAndHeader_Header>
                   <Script>
-                    <FileName>guiscript.ash</FileName>
-                    <Name>9-Verb MI-Style</Name>
-                    <Description>9Verb GUI functions</Description>
-                    <Author>Authors named in header file</Author>
-                    <Version>1.5.2</Version>
-                    <Key>1562295785</Key>
-                    <IsHeader>True</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Header>
-                <ScriptAndHeader_Script>
-                  <Script>
-                    <FileName>guiscript.asc</FileName>
-                    <Name>9-Verb MI-Style</Name>
-                    <Description>9Verb GUI functions</Description>
-                    <Author>Authors named in header file</Author>
-                    <Version>1.5.2</Version>
-                    <Key>1562295785</Key>
-                    <IsHeader>False</IsHeader>
-                  </Script>
-                </ScriptAndHeader_Script>
-              </ScriptAndHeader>
-              <ScriptAndHeader>
-                <ScriptAndHeader_Header>
-                  <Script>
                     <FileName>dialogscript.ash</FileName>
                     <Name>Dialogscript</Name>
                     <Description>simplified fork of CDG</Description>
@@ -31119,6 +31092,30 @@ return
                     <Author>abstauber</Author>
                     <Version>1.1</Version>
                     <Key>551174665</Key>
+                    <IsHeader>False</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Script>
+              </ScriptAndHeader>
+              <ScriptAndHeader>
+                <ScriptAndHeader_Header>
+                  <Script>
+                    <FileName>guiscript.ash</FileName>
+                    <Name>9-Verb MI-Style</Name>
+                    <Description>9Verb GUI functions</Description>
+                    <Author>Authors named in header file</Author>
+                    <Version>1.5.2</Version>
+                    <Key>1562295785</Key>
+                    <IsHeader>True</IsHeader>
+                  </Script>
+                </ScriptAndHeader_Header>
+                <ScriptAndHeader_Script>
+                  <Script>
+                    <FileName>guiscript.asc</FileName>
+                    <Name>9-Verb MI-Style</Name>
+                    <Description>9Verb GUI functions</Description>
+                    <Author>Authors named in header file</Author>
+                    <Version>1.5.2</Version>
+                    <Key>1562295785</Key>
                     <IsHeader>False</IsHeader>
                   </Script>
                 </ScriptAndHeader_Script>
