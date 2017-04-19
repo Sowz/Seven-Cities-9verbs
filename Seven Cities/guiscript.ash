@@ -164,6 +164,18 @@ enum eLanguage {
   eLangPT
 };
 
+
+
+// ============================= Custom functions ==========================================
+
+enum eObjectType {
+  eGizmo, //use this type for all objects that could be picked up but Indy just doesn't need them
+  eHeavy,  //use this type for objects that are too heavy to pickup/push/pull
+  eCharacter
+};
+
+
+
 // ============================= Math & Helper Functions =========================================
 import int Absolute(int value);
 import int Offset(int point1, int point2);
@@ -207,6 +219,9 @@ import int NPCGoToCharacter(Character*charidwhogoes, Character*charidtogoto, Cha
 import int MovePlayerEx(int x, int y, WalkWhere direct);
 import int GoToCharacterEx(Character*chwhogoes, Character*ch, CharacterDirection dir, int xoffset, int yoffset, bool NPCfacesplayer, int blocking);
 import int any_click_move(int x, int y, CharacterDirection dir);
+import int any_click_look(int x, int y, String lookat);
+import int any_click_look_object (Object* object, String lookat);
+import int any_click_look_hotspot (Hotspot* object, String lookat);
 import int any_click_walk(int x, int y, CharacterDirection dir);
 import int any_click_walk_look(int x, int y, CharacterDirection dir, String lookat);
 import int any_click_talk(CharacterDirection dir, String lookat);
@@ -222,7 +237,7 @@ import int any_click_talk(CharacterDirection dir, String lookat);
 import int any_click_use_inv (InventoryItem*item, int x, int y, CharacterDirection dir);
 import function GoTo(int blocking);
 // ============================= Unhandled Events =================================================
-import function Unhandled(int door_script=0);
+import function Unhandled(eObjectType objectType=-1, int door_script=0);
 
 // ============================= Door functions ==========================================
 import function set_door_state(int door_id, int value);
@@ -251,3 +266,17 @@ import function AddExtension(char extension);
 import char Extension();
 import function OpenCloseExtension(int door_id);
 import function VariableExtensions();
+
+
+//the three functions below do almost the same thing:
+//they make Indy say the DEFAULT unsuccessful result for every kind of
+//interaction, depending on the object type (gizmo, heavy object, etc.)
+//he was trying to interact with.
+//The only difference is whether or not he faces a direction, an object, etc.
+
+import function DoStandard(this Character*, Action mode, eObjectType objectType);
+import function DoStandard2(this Character*, EnumDirections direction, eObjectType objectType);
+import function DoStandard3(this Character*, Object* obj, eObjectType objectType);
+import function DoStandard4(this Character*, int x, int y, eObjectType objectType);
+
+

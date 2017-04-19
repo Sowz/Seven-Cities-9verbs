@@ -7,10 +7,10 @@ struct CharactersLogic {
   //    INTERACTIONS LOGIC
   //
   /////////////////////
-  import static void Mulbray(CursorMode mode);
-  import static void Irene(Action action);
-  import static void Biff(CursorMode mode);  
-  import static void Bruno(CursorMode mode);  
+  import static void Mulbray(Action usedAction);
+  import static void Irene(Action usedAction);
+  import static void Biff(Action usedAction);  
+  import static void Bruno(Action usedAction);  
   import static void Student1(CursorMode mode);  
   import static void Student2(CursorMode mode);    
   import static void Student5(CursorMode mode);  

@@ -8,7 +8,7 @@
       <GUIDAsString>{6218439c-215c-4aaf-8b64-b832ce784043}</GUIDAsString>
       <ColorDepth>TrueColor</ColorDepth>
       <CustomResolution>320,200</CustomResolution>
-      <GraphicsDriver>D3D9</GraphicsDriver>
+      <GraphicsDriver>DX5</GraphicsDriver>
       <CompressSprites>False</CompressSprites>
       <SaveScreenshots>True</SaveScreenshots>
       <RoomTransition>FadeOutAndIn</RoomTransition>
@@ -3226,7 +3226,7 @@
                       <Clickable>True</Clickable>
                       <Visibility>Normal</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>20</ZOrder>
+                      <ZOrder>0</ZOrder>
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
@@ -3261,7 +3261,7 @@
                       <Clickable>True</Clickable>
                       <Visibility>PopupModal</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>29</ZOrder>
+                      <ZOrder>9</ZOrder>
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
@@ -3296,7 +3296,7 @@
                       <Clickable>True</Clickable>
                       <Visibility>PopupModal</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>22</ZOrder>
+                      <ZOrder>2</ZOrder>
                       <BorderColor>16</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>16</BackgroundColor>
@@ -3316,7 +3316,7 @@
                       <Clickable>True</Clickable>
                       <Visibility>Normal</Visibility>
                       <PopupYPos>13</PopupYPos>
-                      <ZOrder>21</ZOrder>
+                      <ZOrder>0</ZOrder>
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
@@ -3623,7 +3623,7 @@
                       <Clickable>True</Clickable>
                       <Visibility>PopupModal</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>23</ZOrder>
+                      <ZOrder>3</ZOrder>
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
@@ -3870,27 +3870,27 @@
                   <GUIMain>
                     <NormalGUI>
                       <OnClick />
-                      <Height>13</Height>
+                      <Height>15</Height>
                       <Width>270</Width>
                       <Left>25</Left>
                       <Top>94</Top>
                       <Clickable>True</Clickable>
                       <Visibility>PopupModal</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>36</ZOrder>
+                      <ZOrder>5</ZOrder>
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
                       <BackgroundImage>1117</BackgroundImage>
                       <ID>39</ID>
-                      <Name>gRestart</Name>
+                      <Name>gPaused</Name>
                     </NormalGUI>
                     <Controls>
                       <GUILabel>
                         <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>15219</TextColor>
                         <Font>1</Font>
-                        <Text xml:space="preserve">Are you sure, you want to restart? (Y/N)</Text>
+                        <Text xml:space="preserve">Game paused. Press &lt;P&gt; to continue</Text>
                         <Height>9</Height>
                         <Locked>False</Locked>
                         <Width>270</Width>
@@ -3898,7 +3898,7 @@
                         <Top>2</Top>
                         <ZOrder>0</ZOrder>
                         <ID>0</ID>
-                        <Name>gRestartText</Name>
+                        <Name>gPausedText</Name>
                       </GUILabel>
                     </Controls>
                   </GUIMain>
@@ -3912,11 +3912,11 @@
                       <Clickable>True</Clickable>
                       <Visibility>PopupModal</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>26</ZOrder>
+                      <ZOrder>6</ZOrder>
                       <BorderColor>16</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
-                      <BackgroundImage>1118</BackgroundImage>
+                      <BackgroundImage>1115</BackgroundImage>
                       <ID>40</ID>
                       <Name>gRestore</Name>
                     </NormalGUI>
@@ -3964,7 +3964,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1119</Image>
+                        <Image>1120</Image>
                         <Text>Cancel</Text>
                         <Height>16</Height>
                         <Locked>False</Locked>
@@ -3985,7 +3985,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1120</Image>
+                        <Image>1121</Image>
                         <Text />
                         <Height>48</Height>
                         <Locked>False</Locked>
@@ -4006,7 +4006,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1121</Image>
+                        <Image>1122</Image>
                         <Text />
                         <Height>46</Height>
                         <Locked>False</Locked>
@@ -4029,11 +4029,11 @@
                       <Clickable>True</Clickable>
                       <Visibility>PopupModal</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>27</ZOrder>
+                      <ZOrder>7</ZOrder>
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
-                      <BackgroundImage>1122</BackgroundImage>
+                      <BackgroundImage>1115</BackgroundImage>
                       <ID>41</ID>
                       <Name>gSave22</Name>
                     </NormalGUI>
@@ -4081,7 +4081,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1123</Image>
+                        <Image>1120</Image>
                         <Text>Save</Text>
                         <Height>16</Height>
                         <Locked>False</Locked>
@@ -4102,7 +4102,7 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1123</Image>
+                        <Image>1120</Image>
                         <Text>Cancel</Text>
                         <Height>16</Height>
                         <Locked>False</Locked>
@@ -4123,11 +4123,11 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1124</Image>
+                        <Image>1121</Image>
                         <Text />
                         <Height>48</Height>
                         <Locked>False</Locked>
-                        <Width>17</Width>
+                        <Width>19</Width>
                         <Left>186</Left>
                         <Top>18</Top>
                         <ZOrder>4</ZOrder>
@@ -4144,11 +4144,11 @@
                         <Font>0</Font>
                         <PushedImage>0</PushedImage>
                         <MouseoverImage>0</MouseoverImage>
-                        <Image>1125</Image>
+                        <Image>1122</Image>
                         <Text />
-                        <Height>46</Height>
+                        <Height>48</Height>
                         <Locked>False</Locked>
-                        <Width>17</Width>
+                        <Width>19</Width>
                         <Left>186</Left>
                         <Top>65</Top>
                         <ZOrder>5</ZOrder>
@@ -4167,7 +4167,7 @@
                       <Clickable>True</Clickable>
                       <Visibility>PopupModal</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>28</ZOrder>
+                      <ZOrder>8</ZOrder>
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
@@ -4210,27 +4210,27 @@
                   <GUIMain>
                     <NormalGUI>
                       <OnClick />
-                      <Height>15</Height>
+                      <Height>13</Height>
                       <Width>270</Width>
                       <Left>25</Left>
                       <Top>94</Top>
                       <Clickable>True</Clickable>
                       <Visibility>PopupModal</Visibility>
                       <PopupYPos>0</PopupYPos>
-                      <ZOrder>25</ZOrder>
+                      <ZOrder>16</ZOrder>
                       <BorderColor>0</BorderColor>
                       <Transparency>0</Transparency>
                       <BackgroundColor>0</BackgroundColor>
-                      <BackgroundImage>1261</BackgroundImage>
+                      <BackgroundImage>1118</BackgroundImage>
                       <ID>43</ID>
-                      <Name>gPaused</Name>
+                      <Name>gRestart</Name>
                     </NormalGUI>
                     <Controls>
                       <GUILabel>
                         <TextAlignment>TopMiddle</TextAlignment>
                         <TextColor>15219</TextColor>
                         <Font>1</Font>
-                        <Text xml:space="preserve">Game paused. Press &lt;P&gt; to continue</Text>
+                        <Text xml:space="preserve">Are you sure, you want to restart? (Y/N)</Text>
                         <Height>9</Height>
                         <Locked>False</Locked>
                         <Width>270</Width>
@@ -4238,7 +4238,7 @@
                         <Top>2</Top>
                         <ZOrder>0</ZOrder>
                         <ID>0</ID>
-                        <Name>gPausedText</Name>
+                        <Name>gRestartText</Name>
                       </GUILabel>
                     </Controls>
                   </GUIMain>
@@ -7050,10 +7050,10 @@
             <Name>iBarnett_Hammer1</Name>
             <Properties />
             <Interactions>
-              <Event Index="0">iBarnett_Hammer1_OtherClick</Event>
+              <Event Index="0" />
               <Event Index="1" />
-              <Event Index="2">iBarnett_Hammer1_OtherClick</Event>
-              <Event Index="3">iBarnett_Hammer1_OtherClick</Event>
+              <Event Index="2" />
+              <Event Index="3" />
               <Event Index="4">iBarnett_Hammer1_OtherClick</Event>
             </Interactions>
           </InventoryItem>
@@ -10330,8 +10330,6 @@ stop
                 <ShowTextParser>False</ShowTextParser>
                 <Script><![CDATA[// Dialog script file
 @S  // Dialog startup entry point
-
-  bool askIreneKey = DialogsLogic.GetVar("eDialog_IndyShouldAskKeyToIrene") == 1;
   //we asked both mulbray and irene
   if (DialogsLogic.GetVar("eDialog_MulbrayTopic") && askIreneKey) {
 option-on 2
@@ -11953,7 +11951,7 @@ return
         <HotspotX>7</HotspotX>
         <HotspotY>7</HotspotY>
         <StandardMode>False</StandardMode>
-        <Image>9</Image>
+        <Image>1127</Image>
         <View>2</View>
         <Animate>False</Animate>
         <AnimateOnlyOnHotspots>False</AnimateOnlyOnHotspots>
@@ -11965,7 +11963,7 @@ return
         <HotspotX>7</HotspotX>
         <HotspotY>7</HotspotY>
         <StandardMode>False</StandardMode>
-        <Image>9</Image>
+        <Image>1127</Image>
         <View>2</View>
         <Animate>False</Animate>
         <AnimateOnlyOnHotspots>False</AnimateOnlyOnHotspots>
@@ -12410,6 +12408,11 @@ return
           <DefaultValue>0</DefaultValue>
         </GlobalVariable>
         <GlobalVariable>
+          <Name>askIreneKey</Name>
+          <Type>bool</Type>
+          <DefaultValue>false</DefaultValue>
+        </GlobalVariable>
+        <GlobalVariable>
           <Name>hasKey</Name>
           <Type>bool</Type>
           <DefaultValue>false</DefaultValue>
@@ -12802,197 +12805,220 @@ return
               </SpriteFolder>
               <SpriteFolder Name="9verb">
                 <SubFolders>
-                  <SpriteFolder Name="de">
+                  <SpriteFolder Name="en">
                     <SubFolders />
                     <Sprites>
+                      <Sprite Slot="1072" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1073" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1074" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1075" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1076" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1077" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1078" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1079" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1080" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1081" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1082" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1083" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1084" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1085" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1086" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1087" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1088" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="1089" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                    </Sprites>
+                  </SpriteFolder>
+                  <SpriteFolder Name="fr">
+                    <SubFolders />
+                    <Sprites>
+                      <Sprite Slot="1126" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00149.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1138" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00175.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1139" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00176.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1140" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00177.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1141" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00178.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1142" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00179.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1143" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00180.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1144" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00181.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1145" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00182.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1146" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00183.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1147" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00184.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1148" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00185.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1149" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00186.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1150" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00187.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1151" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00188.bmp</FileName>
+                        </Source>
+                      </Sprite>
                       <Sprite Slot="1152" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00156.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00189.bmp</FileName>
                         </Source>
                       </Sprite>
                       <Sprite Slot="1153" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00157.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00190.bmp</FileName>
                         </Source>
                       </Sprite>
                       <Sprite Slot="1154" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00158.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1155" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00159.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1156" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00160.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1157" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00161.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1158" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00162.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1159" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00163.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1160" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00164.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1161" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00165.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1162" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00166.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1163" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00167.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1164" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00168.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1165" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00169.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1166" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00170.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1167" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00171.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1168" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00172.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1169" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00173.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1170" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\de\spr00174.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\fr\spr00191.bmp</FileName>
                         </Source>
                       </Sprite>
                     </Sprites>
                   </SpriteFolder>
-                  <SpriteFolder Name="en">
+                  <SpriteFolder Name="de">
                     <SubFolders />
                     <Sprites>
+                      <Sprite Slot="1155" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00156.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1156" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00157.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1157" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00158.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1158" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00159.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1159" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00160.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1160" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00161.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1161" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00162.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1162" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00163.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1163" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00164.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1164" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00165.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1165" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00166.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1166" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00167.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1167" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00168.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1168" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00169.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1169" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00170.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1170" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00171.bmp</FileName>
+                        </Source>
+                      </Sprite>
                       <Sprite Slot="1171" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00125.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00172.bmp</FileName>
                         </Source>
                       </Sprite>
                       <Sprite Slot="1172" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00126.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00173.bmp</FileName>
                         </Source>
                       </Sprite>
                       <Sprite Slot="1173" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00127.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1174" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00129.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1175" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00130.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1176" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00131.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1177" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00133.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1178" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00134.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1179" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00135.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1180" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00138.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1181" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00139.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1182" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00140.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1183" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00142.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1184" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00143.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1185" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00144.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1186" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00146.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1187" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00147.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1188" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\en\spr00148.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\de\spr00174.bmp</FileName>
                         </Source>
                       </Sprite>
                     </Sprites>
@@ -13000,189 +13026,94 @@ return
                   <SpriteFolder Name="es">
                     <SubFolders />
                     <Sprites>
+                      <Sprite Slot="1174" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00002.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1175" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00004.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1176" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00005.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1177" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00006.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1178" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00007.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1179" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00008.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1180" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00009.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1181" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00010.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1182" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00011.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1183" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00013.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1184" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00014.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1185" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00015.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1186" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00016.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1187" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00017.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="1188" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00018.bmp</FileName>
+                        </Source>
+                      </Sprite>
                       <Sprite Slot="1189" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00002.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00075.bmp</FileName>
                         </Source>
                       </Sprite>
                       <Sprite Slot="1190" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00004.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00122.bmp</FileName>
                         </Source>
                       </Sprite>
                       <Sprite Slot="1191" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00005.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1192" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00006.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1193" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00007.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1194" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00008.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1195" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00009.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1196" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00010.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1197" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00011.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1198" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00013.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1199" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00014.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1200" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00015.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1201" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00016.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1202" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00017.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1203" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00018.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1204" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00075.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1205" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00122.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1206" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\es\spr00145.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                    </Sprites>
-                  </SpriteFolder>
-                  <SpriteFolder Name="fr">
-                    <SubFolders />
-                    <Sprites>
-                      <Sprite Slot="1207" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00149.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1208" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00175.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1209" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00176.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1210" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00177.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1211" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00178.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1212" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00179.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1213" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00180.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1214" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00181.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1215" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00182.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1216" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00183.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1217" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00184.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1218" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00185.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1219" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00186.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1220" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00187.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1221" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00188.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1222" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00189.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1223" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00190.bmp</FileName>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="1224" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\fr\spr00191.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\es\spr00145.bmp</FileName>
                         </Source>
                       </Sprite>
                     </Sprites>
@@ -13190,94 +13121,94 @@ return
                   <SpriteFolder Name="it">
                     <SubFolders />
                     <Sprites>
-                      <Sprite Slot="1225" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1192" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00193.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00193.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1226" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1193" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00194.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00194.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1227" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1194" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00195.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00195.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1228" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1195" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00196.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00196.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1229" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1196" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00197.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00197.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1230" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1197" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00198.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00198.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1231" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1198" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00199.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00199.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1232" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1199" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00200.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00200.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1233" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1200" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00201.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00201.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1234" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1201" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00202.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00202.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1235" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1202" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00203.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00203.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1236" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1203" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00204.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00204.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1237" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1204" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00205.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00205.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1238" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1205" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00206.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00206.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1239" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1206" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00207.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00207.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1240" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1207" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00213.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00213.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1241" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1208" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00214.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00214.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1242" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1209" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\it\spr00215.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\it\spr00215.bmp</FileName>
                         </Source>
                       </Sprite>
                     </Sprites>
@@ -13285,228 +13216,186 @@ return
                   <SpriteFolder Name="pt">
                     <SubFolders />
                     <Sprites>
-                      <Sprite Slot="1243" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1210" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00012.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00012.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1244" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1211" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00216.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00216.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1245" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1212" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00217.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00217.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1246" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1213" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00218.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00218.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1247" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1214" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00219.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00219.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1248" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1215" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00220.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00220.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1249" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1216" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00221.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00221.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1250" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1217" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00222.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00222.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1251" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1218" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00223.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00223.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1252" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1219" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00224.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00224.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1253" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1220" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00225.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00225.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1254" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1221" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00226.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00226.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1255" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1222" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00227.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00227.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1256" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1223" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00228.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00228.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1257" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1224" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00229.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00229.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1258" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1225" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00230.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00230.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1259" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1226" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00231.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00231.bmp</FileName>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="1260" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                      <Sprite Slot="1227" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Users\Hadrien\Desktop\MainGui\pt\spr00232.bmp</FileName>
+                          <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\pt\spr00232.bmp</FileName>
                         </Source>
                       </Sprite>
                     </Sprites>
                   </SpriteFolder>
                 </SubFolders>
                 <Sprites>
-                  <Sprite Slot="1126" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00019.bmp</FileName>
-                    </Source>
-                  </Sprite>
                   <Sprite Slot="1127" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00020.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00019.bmp</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1128" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00021.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00020.bmp</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1129" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00022.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00021.bmp</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1130" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00023.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00022.bmp</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1131" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00024.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00023.bmp</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1132" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00025.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00024.bmp</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1133" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00026.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00025.bmp</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1134" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00027.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00026.bmp</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1135" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00028.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00027.bmp</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="1136" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00029.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00028.bmp</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="1137" Width="320" Height="47" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                  <Sprite Slot="1137" Width="15" Height="15" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00123.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00029.bmp</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="1138" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                  <Sprite Slot="1071" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1110" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1111" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1112" Width="320" Height="47" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1113" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1114" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1115" Width="281" Height="121" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1116" Width="75" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1117" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1120" Width="63" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1121" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1122" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1118" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="1119" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00124.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00124.bmp</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="1139" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                  <Sprite Slot="1123" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00128.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00128.bmp</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="1140" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                  <Sprite Slot="1124" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00132.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00137.bmp</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="1141" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                  <Sprite Slot="1125" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00136.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1142" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00137.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1143" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00141.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1144" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00154.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1145" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00155.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1146" Width="75" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00192.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1147" Width="281" Height="121" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00208.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1148" Width="63" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00209.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1149" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00210.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1150" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00211.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="1151" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Users\Hadrien\Desktop\MainGui\spr00212.bmp</FileName>
+                      <FileName>C:\Users\Hadrien\Desktop\9verbs\MainGUI\spr00141.bmp</FileName>
                     </Source>
                   </Sprite>
                 </Sprites>
@@ -17301,76 +17190,9 @@ return
               <Sprite Slot="991" Width="30" Height="65" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
             </Sprites>
           </SpriteFolder>
-          <SpriteFolder Name="gConfirmexitImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1071" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gMainguiImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1072" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1073" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1074" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1075" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1076" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1077" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1078" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1079" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1080" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1081" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1082" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1083" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1084" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1085" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1086" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1087" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1088" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1089" Width="45" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1110" Width="16" Height="11" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1111" Width="16" Height="12" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1112" Width="320" Height="47" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1113" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1114" Width="16" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gOptionsImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1115" Width="281" Height="121" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1116" Width="75" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
           <SpriteFolder Name="gRestartImport">
             <SubFolders />
-            <Sprites>
-              <Sprite Slot="1117" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gRestoreImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1118" Width="281" Height="121" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1119" Width="63" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1120" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1121" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gSaveImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1122" Width="281" Height="121" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1123" Width="63" Height="16" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1124" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="1125" Width="19" Height="48" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
-          </SpriteFolder>
-          <SpriteFolder Name="gPausedImport">
-            <SubFolders />
-            <Sprites>
-              <Sprite Slot="1261" Width="270" Height="13" ColorDepth="32" Resolution="LowRes" AlphaChannel="False" />
-            </Sprites>
+            <Sprites />
           </SpriteFolder>
         </SubFolders>
         <Sprites>
@@ -31343,23 +31165,23 @@ return
           <ScriptAndHeader>
             <ScriptAndHeader_Header>
               <Script>
-                <FileName>StandardInteractions.ash</FileName>
+                <FileName>CharactersLogic.ash</FileName>
                 <Name />
                 <Description />
                 <Author />
                 <Version />
-                <Key>387052394</Key>
+                <Key>238897210</Key>
                 <IsHeader>True</IsHeader>
               </Script>
             </ScriptAndHeader_Header>
             <ScriptAndHeader_Script>
               <Script>
-                <FileName>StandardInteractions.asc</FileName>
+                <FileName>CharactersLogic.asc</FileName>
                 <Name />
                 <Description />
                 <Author />
                 <Version />
-                <Key>387052394</Key>
+                <Key>238897210</Key>
                 <IsHeader>False</IsHeader>
               </Script>
             </ScriptAndHeader_Script>
@@ -31384,30 +31206,6 @@ return
                 <Author />
                 <Version />
                 <Key>536630389</Key>
-                <IsHeader>False</IsHeader>
-              </Script>
-            </ScriptAndHeader_Script>
-          </ScriptAndHeader>
-          <ScriptAndHeader>
-            <ScriptAndHeader_Header>
-              <Script>
-                <FileName>CharactersLogic.ash</FileName>
-                <Name />
-                <Description />
-                <Author />
-                <Version />
-                <Key>238897210</Key>
-                <IsHeader>True</IsHeader>
-              </Script>
-            </ScriptAndHeader_Header>
-            <ScriptAndHeader_Script>
-              <Script>
-                <FileName>CharactersLogic.asc</FileName>
-                <Name />
-                <Description />
-                <Author />
-                <Version />
-                <Key>238897210</Key>
                 <IsHeader>False</IsHeader>
               </Script>
             </ScriptAndHeader_Script>
@@ -31568,8 +31366,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <ScriptName>aMusicSpain_short</ScriptName>
                     <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\spain_short.ogg</SourceFileName>
+                    <ScriptName>aMusicSpain_short</ScriptName>
                     <Index>18</Index>
                     <Type>2</Type>
                     <BundlingType>InSeparateVOX</BundlingType>
@@ -31591,8 +31389,8 @@ return
             </SubFolders>
             <AudioClips>
               <AudioClip>
-                <ScriptName>aMusic1</ScriptName>
                 <SourceFileName>music\music1.mp3</SourceFileName>
+                <ScriptName>aMusic1</ScriptName>
                 <Index>1</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -31603,8 +31401,8 @@ return
                 <FileLastModifiedDate>2010-06-18 15:41:40Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic2</ScriptName>
                 <SourceFileName>music\music2.mp3</SourceFileName>
+                <ScriptName>aMusic2</ScriptName>
                 <Index>2</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -31615,8 +31413,8 @@ return
                 <FileLastModifiedDate>2010-06-18 15:40:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic3</ScriptName>
                 <SourceFileName>music\music3.mp3</SourceFileName>
+                <ScriptName>aMusic3</ScriptName>
                 <Index>3</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -31627,8 +31425,8 @@ return
                 <FileLastModifiedDate>2010-05-05 14:09:12Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic4</ScriptName>
                 <SourceFileName>music\music4.mp3</SourceFileName>
+                <ScriptName>aMusic4</ScriptName>
                 <Index>4</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -31639,8 +31437,8 @@ return
                 <FileLastModifiedDate>2010-07-01 14:06:46Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic5</ScriptName>
                 <SourceFileName>music\music5.mp3</SourceFileName>
+                <ScriptName>aMusic5</ScriptName>
                 <Index>5</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -31651,8 +31449,8 @@ return
                 <FileLastModifiedDate>2010-07-02 15:55:46Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aMusic6</ScriptName>
                 <SourceFileName>music\music6.mp3</SourceFileName>
+                <ScriptName>aMusic6</ScriptName>
                 <Index>6</Index>
                 <Type>2</Type>
                 <BundlingType>InSeparateVOX</BundlingType>
@@ -31688,8 +31486,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <ScriptName>aIcecracks1</ScriptName>
                     <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\icecracks1.ogg</SourceFileName>
+                    <ScriptName>aIcecracks1</ScriptName>
                     <Index>25</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31700,8 +31498,8 @@ return
                     <FileLastModifiedDate>2016-11-22 05:25:48Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <ScriptName>aStep1</ScriptName>
                     <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\step1.ogg</SourceFileName>
+                    <ScriptName>aStep1</ScriptName>
                     <Index>26</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31712,8 +31510,8 @@ return
                     <FileLastModifiedDate>2016-11-22 05:41:41Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <ScriptName>aStep2</ScriptName>
                     <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\step2.ogg</SourceFileName>
+                    <ScriptName>aStep2</ScriptName>
                     <Index>27</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31724,8 +31522,8 @@ return
                     <FileLastModifiedDate>2016-11-22 05:41:54Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <ScriptName>aStep3</ScriptName>
                     <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\step3.ogg</SourceFileName>
+                    <ScriptName>aStep3</ScriptName>
                     <Index>28</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31748,8 +31546,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <ScriptName>aWhiplash</ScriptName>
                     <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\whiplash.ogg</SourceFileName>
+                    <ScriptName>aWhiplash</ScriptName>
                     <Index>17</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31772,8 +31570,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <ScriptName>aTruck00</ScriptName>
                     <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\truck\truck00.ogg</SourceFileName>
+                    <ScriptName>aTruck00</ScriptName>
                     <Index>19</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31784,8 +31582,8 @@ return
                     <FileLastModifiedDate>2014-02-17 04:40:51Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <ScriptName>aMachinegun00</ScriptName>
                     <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\machinegun\machinegun00.ogg</SourceFileName>
+                    <ScriptName>aMachinegun00</ScriptName>
                     <Index>20</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31796,8 +31594,8 @@ return
                     <FileLastModifiedDate>2014-02-17 04:46:11Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <ScriptName>aCrickets00</ScriptName>
                     <SourceFileName xml:space="preserve">D:\donnees\Mathieu\creations\AGS\seven cities\artwork\_SOUND\_MUSIC\05 Spain\crickets\crickets00.ogg</SourceFileName>
+                    <ScriptName>aCrickets00</ScriptName>
                     <Index>21</Index>
                     <Type>3</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31819,8 +31617,8 @@ return
             </SubFolders>
             <AudioClips>
               <AudioClip>
-                <ScriptName>aSound1</ScriptName>
                 <SourceFileName>sound\sound1.mp3</SourceFileName>
+                <ScriptName>aSound1</ScriptName>
                 <Index>7</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -31831,8 +31629,8 @@ return
                 <FileLastModifiedDate>2010-06-04 16:54:56Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound2</ScriptName>
                 <SourceFileName>sound\sound2.mp3</SourceFileName>
+                <ScriptName>aSound2</ScriptName>
                 <Index>8</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -31843,8 +31641,8 @@ return
                 <FileLastModifiedDate>2010-07-18 22:36:16Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound3</ScriptName>
                 <SourceFileName>sound\sound3.mp3</SourceFileName>
+                <ScriptName>aSound3</ScriptName>
                 <Index>9</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -31855,8 +31653,8 @@ return
                 <FileLastModifiedDate>2010-07-23 17:57:40Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound4</ScriptName>
                 <SourceFileName>sound\sound4.mp3</SourceFileName>
+                <ScriptName>aSound4</ScriptName>
                 <Index>10</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -31867,8 +31665,8 @@ return
                 <FileLastModifiedDate>2010-07-24 20:34:32Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound5</ScriptName>
                 <SourceFileName>sound\sound5.mp3</SourceFileName>
+                <ScriptName>aSound5</ScriptName>
                 <Index>11</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -31879,8 +31677,8 @@ return
                 <FileLastModifiedDate>2010-07-24 20:34:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound6</ScriptName>
                 <SourceFileName>sound\sound6.mp3</SourceFileName>
+                <ScriptName>aSound6</ScriptName>
                 <Index>12</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -31891,8 +31689,8 @@ return
                 <FileLastModifiedDate>2010-08-09 22:31:16Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSound7</ScriptName>
                 <SourceFileName>sound\sound7.mp3</SourceFileName>
+                <ScriptName>aSound7</ScriptName>
                 <Index>13</Index>
                 <Type>3</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -31917,8 +31715,8 @@ return
                 <SubFolders />
                 <AudioClips>
                   <AudioClip>
-                    <ScriptName>aSnow_tempest</ScriptName>
                     <SourceFileName xml:space="preserve">C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\Source-Seven Cities Demo 1.2.1.1\Seven Cities\Sound\snow_tempest.mp3</SourceFileName>
+                    <ScriptName>aSnow_tempest</ScriptName>
                     <Index>16</Index>
                     <Type>1</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31929,8 +31727,8 @@ return
                     <FileLastModifiedDate>2013-08-03 10:59:51Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <ScriptName>aAmbiant_cave1</ScriptName>
                     <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\ambiant_cave1.ogg</SourceFileName>
+                    <ScriptName>aAmbiant_cave1</ScriptName>
                     <Index>23</Index>
                     <Type>1</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31941,8 +31739,8 @@ return
                     <FileLastModifiedDate>2016-11-22 05:01:31Z</FileLastModifiedDate>
                   </AudioClip>
                   <AudioClip>
-                    <ScriptName>aAmbiant_cave2</ScriptName>
                     <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\Resources - CHAPTERS\01-Tibet\sounds\ambiant_cave2.ogg</SourceFileName>
+                    <ScriptName>aAmbiant_cave2</ScriptName>
                     <Index>24</Index>
                     <Type>1</Type>
                     <BundlingType>InGameEXE</BundlingType>
@@ -31975,8 +31773,8 @@ return
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <ScriptName>aTestClip</ScriptName>
                 <SourceFileName xml:space="preserve">D:\perso\Dropbox\Dropbox\seven_cities\AGS sources and Releases\github\seven_cities\Seven Cities\Sound\SOUND1.mp3</SourceFileName>
+                <ScriptName>aTestClip</ScriptName>
                 <Index>29</Index>
                 <Type>4</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -32008,32 +31806,32 @@ return
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <Name xml:space="preserve">Ambient Sound</Name>
         <TypeID>1</TypeID>
+        <Name xml:space="preserve">Ambient Sound</Name>
         <MaxChannels>2</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>SlowFade</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Music</Name>
         <TypeID>2</TypeID>
+        <Name>Music</Name>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>MediumFade</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Sound</Name>
         <TypeID>3</TypeID>
+        <Name>Sound</Name>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>False</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Debug_MaxChannels0</Name>
         <TypeID>4</TypeID>
+        <Name>Debug_MaxChannels0</Name>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
