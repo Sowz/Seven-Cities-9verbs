@@ -6,6 +6,7 @@ enum CheckPointsEnum {
   eChckpnt_05_IndysClassroom_studentsPuzzle2, 
   eChckpnt_06_BarnettCorridor, 
   eChckpnt_07_BarnettReadTelegram, 
+  eChckpnt_07_BarnettOutside, 
   eChckpnt_08_TibetTop, 
   eChckpnt_09_MirrorsTests, 
   eChckpnt_10_NewClassRoom, 
