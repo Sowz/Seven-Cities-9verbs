@@ -11,19 +11,18 @@ struct CharactersLogic {
   import static void Irene(Action usedAction);
   import static void Biff(Action usedAction);  
   import static void Bruno(Action usedAction);  
-  import static void Student1(CursorMode mode);  
-  import static void Student2(CursorMode mode);    
-  import static void Student5(CursorMode mode);  
-  import static void Student6(CursorMode mode); 
-  import static void Student7(CursorMode mode); 
+  import static void Student1(Action usedAction);  
+  import static void Student2(Action usedAction);    
+  import static void Student5(Action usedAction);  
+  import static void Student6(Action usedAction); 
+  import static void Student7(Action usedAction); 
   import static void Students_SpeakFast(String s1,  String s2,  String s3,  String s4);
-  import static void Students_SpeakFast2(String s1,  String s2,  String s3,  String s4);  
-
-  import static void StudentBiff(CursorMode mode);  
-  import static void StudentFat(CursorMode mode);    
-  import static void StudentRedhead(CursorMode mode);  
-  import static void StudentTie(CursorMode mode); 
-  import static void StudentPink(CursorMode mode); 
+  import static void Students_SpeakFast2(String s1,  String s2,  String s3,  String s4);
+  import static void StudentBiff(Action usedAction);  
+  import static void StudentFat(Action usedAction);    
+  import static void StudentRedhead(Action usedAction);  
+  import static void StudentTie(Action usedAction); 
+  import static void StudentPink(Action usedAction); 
   
   
   /////////////////////

@@ -92,20 +92,9 @@ Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Stu
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
 (in room 12): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+(in room 12): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-<<<<<<< HEAD
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+(in room 12): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
 (in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
@@ -117,26 +106,11 @@ Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Stu
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
 (in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 4): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
-=======
+(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
 (in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
@@ -146,14 +120,121 @@ Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Stu
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
 (in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 5): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 5): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 5): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 5): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
->>>>>>> origin/master
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
-(in room 23): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
+Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
+(in room 16): Attempt to access file 'Log.txt' denied (cannot write to game installation directory);
 Path will be remapped to the app data directory: 'C:\PROGRA~3\Adventure Game Studio/Indiana Jones and the Seven Cities of Gold/'
