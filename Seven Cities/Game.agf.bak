@@ -942,7 +942,7 @@
               </UnloadedRoom>
               <UnloadedRoom>
                 <Number>23</Number>
-                <Description xml:space="preserve">BAR: 02-03 corridor</Description>
+                <Description xml:space="preserve">BAR: 02-03 Corridor</Description>
               </UnloadedRoom>
             </UnloadedRooms>
           </UnloadedRoomFolder>
@@ -6919,7 +6919,7 @@
             <HotspotY>6</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>9</CursorImage>
-            <Image>39</Image>
+            <Image>1228</Image>
             <Description xml:space="preserve">Oil Can</Description>
             <Name>iOilCan</Name>
             <Properties />
@@ -6937,7 +6937,7 @@
             <HotspotY>7</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>9</CursorImage>
-            <Image>45</Image>
+            <Image>1232</Image>
             <Description xml:space="preserve">Office Key</Description>
             <Name>iKey</Name>
             <Properties />
@@ -6955,15 +6955,15 @@
             <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>9</CursorImage>
-            <Image>40</Image>
+            <Image>1229</Image>
             <Description>Telegram</Description>
             <Name>iTelegram</Name>
             <Properties />
             <Interactions>
-              <Event Index="0" />
+              <Event Index="0">iTelegram_OtherClick</Event>
               <Event Index="1" />
-              <Event Index="2" />
-              <Event Index="3" />
+              <Event Index="2">iTelegram_OtherClick</Event>
+              <Event Index="3">iTelegram_OtherClick</Event>
               <Event Index="4">iTelegram_OtherClick</Event>
             </Interactions>
           </InventoryItem>
@@ -6973,16 +6973,16 @@
             <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>9</CursorImage>
-            <Image>42</Image>
+            <Image>1231</Image>
             <Description xml:space="preserve">Tire Repair Kit</Description>
             <Name>iTireRepair</Name>
             <Properties />
             <Interactions>
-              <Event Index="0">iTireRepair_Look</Event>
-              <Event Index="1">iTireRepair_Interact</Event>
-              <Event Index="2">iTireRepair_Talk</Event>
-              <Event Index="3">iTireRepair_UseInv</Event>
-              <Event Index="4">iTireRepair_OtherClick</Event>
+              <Event Index="0">iTireRepair_AnyClick</Event>
+              <Event Index="1" />
+              <Event Index="2">iTireRepair_AnyClick</Event>
+              <Event Index="3">iTireRepair_AnyClick</Event>
+              <Event Index="4">iTireRepair_AnyClick</Event>
             </Interactions>
           </InventoryItem>
           <InventoryItem>
@@ -6991,7 +6991,7 @@
             <HotspotY>5</HotspotY>
             <PlayerStartsWithItem>True</PlayerStartsWithItem>
             <CursorImage>9</CursorImage>
-            <Image>41</Image>
+            <Image>1230</Image>
             <Description>Wallet</Description>
             <Name>iWallet</Name>
             <Properties />
@@ -7009,7 +7009,7 @@
             <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>0</CursorImage>
-            <Image>372</Image>
+            <Image>1233</Image>
             <Description xml:space="preserve">metal device</Description>
             <Name>iCompass</Name>
             <Properties />
@@ -7027,7 +7027,7 @@
             <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>0</CursorImage>
-            <Image>373</Image>
+            <Image>1234</Image>
             <Description xml:space="preserve">small tag</Description>
             <Name>iCompassNote</Name>
             <Properties />
@@ -7045,7 +7045,7 @@
             <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>0</CursorImage>
-            <Image>405</Image>
+            <Image>1235</Image>
             <Description xml:space="preserve">genuine hammer</Description>
             <Name>iBarnett_Hammer1</Name>
             <Properties />
@@ -7063,7 +7063,7 @@
             <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>0</CursorImage>
-            <Image>406</Image>
+            <Image>1236</Image>
             <Description xml:space="preserve">copy of hammer</Description>
             <Name>iBarnett_Hammer2</Name>
             <Properties />
@@ -7081,7 +7081,7 @@
             <HotspotY>0</HotspotY>
             <PlayerStartsWithItem>False</PlayerStartsWithItem>
             <CursorImage>0</CursorImage>
-            <Image>40</Image>
+            <Image>1229</Image>
             <Description xml:space="preserve">Nazi Uniform</Description>
             <Name>iNazi_Uniform</Name>
             <Properties />
@@ -14528,51 +14528,102 @@ return
             </Sprites>
           </SpriteFolder>
           <SpriteFolder Name="Inventory">
-            <SubFolders />
+            <SubFolders>
+              <SpriteFolder Name="old">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="39" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\can.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="40" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\telegram.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="41" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\wallet.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="42" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\toolbox.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="45" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\office_key.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="372" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\compass.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="373" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\compassnote.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="405" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\hammer1.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="406" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\hammer2.png</FileName>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+            </SubFolders>
             <Sprites>
-              <Sprite Slot="39" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+              <Sprite Slot="1228" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\can.png</FileName>
+                  <FileName>C:\Users\Hadrien\Desktop\inventory\spr00039.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="40" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+              <Sprite Slot="1229" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\telegram.png</FileName>
+                  <FileName>C:\Users\Hadrien\Desktop\inventory\spr00040.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="41" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+              <Sprite Slot="1230" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\wallet.png</FileName>
+                  <FileName>C:\Users\Hadrien\Desktop\inventory\spr00041.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="42" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+              <Sprite Slot="1231" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\toolbox.png</FileName>
+                  <FileName>C:\Users\Hadrien\Desktop\inventory\spr00042.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="45" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+              <Sprite Slot="1232" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\office_key.png</FileName>
+                  <FileName>C:\Users\Hadrien\Desktop\inventory\spr00045.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="372" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+              <Sprite Slot="1233" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\compass.png</FileName>
+                  <FileName>C:\Users\Hadrien\Desktop\inventory\spr00372.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="373" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+              <Sprite Slot="1234" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\compassnote.png</FileName>
+                  <FileName>C:\Users\Hadrien\Desktop\inventory\spr00373.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="405" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+              <Sprite Slot="1235" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\hammer1.png</FileName>
+                  <FileName>C:\Users\Hadrien\Desktop\inventory\spr00405.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="406" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="False">
+              <Sprite Slot="1236" Width="31" Height="23" ColorDepth="32" Resolution="LowRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Mathieu\My Documents\creations\AGS\seven cities\artwork\inventory\hammer2.png</FileName>
+                  <FileName>C:\Users\Hadrien\Desktop\inventory\spr00406.png</FileName>
                 </Source>
               </Sprite>
             </Sprites>
@@ -31375,7 +31426,7 @@ return
                     <DefaultVolume>-1</DefaultVolume>
                     <DefaultPriority>Inherit</DefaultPriority>
                     <DefaultRepeat>Inherit</DefaultRepeat>
-                    <FileLastModifiedDate>2017-04-18 17:30:11Z</FileLastModifiedDate>
+                    <FileLastModifiedDate>2014-01-30 18:28:52Z</FileLastModifiedDate>
                   </AudioClip>
                 </AudioClips>
                 <AudioClipFolder>
@@ -31398,7 +31449,7 @@ return
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-04-19 19:13:38Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2010-06-18 15:41:40Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music2.mp3</SourceFileName>
@@ -31410,7 +31461,7 @@ return
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-04-19 19:13:39Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2010-06-18 15:40:54Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music3.mp3</SourceFileName>
@@ -31422,7 +31473,7 @@ return
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-04-19 19:13:39Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2010-05-05 14:09:12Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music4.mp3</SourceFileName>
@@ -31434,7 +31485,7 @@ return
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-04-19 19:13:39Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2010-07-01 14:06:46Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music5.mp3</SourceFileName>
@@ -31446,7 +31497,7 @@ return
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-04-19 19:13:39Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2010-07-02 15:55:46Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music6.mp3</SourceFileName>
@@ -31458,7 +31509,7 @@ return
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2017-04-19 19:13:39Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2010-10-10 14:37:04Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>

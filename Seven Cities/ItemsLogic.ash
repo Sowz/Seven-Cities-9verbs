@@ -9,6 +9,7 @@ struct ItemsLogic {
   import static void CompassNote();
   import static void Hammer1();
   import static void Hammer2();
+  import static void TireRepair();
 
 };
 
